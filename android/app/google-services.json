@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137488487050",
+    "project_id": "flexride-a96ad",
+    "storage_bucket": "flexride-a96ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137488487050:android:3459a818a977ec95ca9373",
+        "android_client_info": {
+          "package_name": "com.domain.flexride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctDFeWm0Sn3ZjnxfYbPy5TboNiyVdyko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
